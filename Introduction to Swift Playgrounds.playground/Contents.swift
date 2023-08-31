@@ -21,6 +21,27 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+//Assignment #3 Introduction to True and False
+
+var appState = false
+print(appState)
+
+//Part 4
+//create 2 new variables of type int
+
+var numberOne = 5
+var numberTwo = 7
+
+//We are going to create a statement that compares the two variables and assign that statement to a third variable
+
+var comparison = numberOne > numberTwo
+
+//Part 7 On Your Own Part 1:
+
+
+
+
+//Part 8 On Your Own Part 2
 
 
 
