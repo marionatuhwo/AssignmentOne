@@ -25,19 +25,21 @@ print(myThirdVariable)
 
 //Part 9 On Your Own
 
-//1. Declare three new variables and assign each of them to a different string.
+//1. Declare three new variables and assign each of them to a different string. (6 points possible, 2 points/variable)
 
 var stringOne = "Hello, "
 var stringTwo = "my name is "
 var stringThree = "Marion Ano."
 
-// 2. Create a fourth variable and assign it to the string concatenation that combines all three strings
+// 2. Create a fourth variable and assign it to the string  concatenation that combines all three strings (2 points possible)
 
 var fullString = stringOne + stringTwo + stringThree
 
-//3. Use the print function to print the fourth variable
+//3. Use the print function to print the fourth variable (2 points possible)
 
 print(fullString)
+
+//Part 10: Push to Github (2 points)
 
 //ASSIGNMENT #2 END______________________________________
 
@@ -61,20 +63,20 @@ var comparison = numberOne > numberTwo
 //Part 7: ON YOUR OWN PART 1: USING THE "EQUAL TO" OPERATOR
 //NOTE: == is the equal to operator
 
-//1. Create two new variables and assign those variables to two different strings.
+//1. Create two new variables and assign those variables to two different strings. (worth 2 points)
 
 var firstString = "I live in Hawaiʻi."
 var secondString = "Where do you live?"
 
-//2. Create a third variable that is set to (or assigned to) the statement that evaluates your two variables equal to each other.
+//2. Create a third variable that is set to (or assigned to) the statement that evaluates your two variables equal to each other. (worth 2 points)
 
 var resultString = firstString == secondString
 
-// Print the third variable.
+// Print the third variable. (worth 2 points)
 
 print(resultString)
 
-//Part 8: On Your Own Part 2: Repeat Assignment #1
+//Part 8: On Your Own Part 2: Repeat Assignment #1 (3 points if completed)
 
 //ASSIGNMENT #3 END_____________________________________________
 
