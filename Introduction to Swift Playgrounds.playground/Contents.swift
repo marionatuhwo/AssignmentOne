@@ -1,7 +1,7 @@
 import UIKit
 
 var greeting = "Hello, playground"
-
+//ASSIGNMENT #2 BEGIN _______________________________
 //var myFirstVariable = "Iʻve created my first variable"
 //var is only used when declaring the variable
 var myFirstVariable: String
@@ -21,7 +21,27 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
-//Assignment #3 Introduction to True and False
+//SOLUTION+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//Part 9 On Your Own
+
+//1. Declare three new variables and assign each of them to a different string.
+
+var stringOne = "Hello, "
+var stringTwo = "my name is "
+var stringThree = "Marion Ano."
+
+// 2. Create a fourth variable and assign it to the string concatenation that combines all three strings
+
+var fullString = stringOne + stringTwo + stringThree
+
+//3. Use the print function to print the fourth variable
+
+print(fullString)
+
+//ASSIGNMENT #2 END______________________________________
+
+//ASSIGNMENT #3 BEGIN Introduction to True and False________________
 
 var appState = false
 print(appState)
@@ -36,12 +56,31 @@ var numberTwo = 7
 
 var comparison = numberOne > numberTwo
 
-//Part 7 On Your Own Part 1:
+//SOLUTION+++++++++++++++++++++++++++++++++++++++++++++++
+
+//Part 7: ON YOUR OWN PART 1: USING THE "EQUAL TO" OPERATOR
+//NOTE: == is the equal to operator
+
+//1. Create two new variables and assign those variables to two different strings.
+
+var firstString = "I live in Hawaiʻi."
+var secondString = "Where do you live?"
+
+//2. Create a third variable that is set to (or assigned to) the statement that evaluates your two variables equal to each other.
+
+var resultString = firstString == secondString
+
+// Print the third variable.
+
+print(resultString)
+
+//Part 8: On Your Own Part 2: Repeat Assignment #1
+
+//ASSIGNMENT #3 END_____________________________________________
 
 
 
 
-//Part 8 On Your Own Part 2
 
 
 
